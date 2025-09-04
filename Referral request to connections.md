@@ -1,17 +1,29 @@
-Hi [Name],
+# Template
 
-I previously worked at Amazon but was recently laid off in May, and I’m now actively exploring new opportunities. I came across the following role at [Company] that aligns closely with my skills and interests. Could you give referral to me for this?
+Hi __name__,
 
-Job Title: [Paste Job Title]
-Job Link: [Paste Job Link]
-Job ID: [Paste Job ID]
-My email: adityaraj520@gmail.com
+I hope you are doing well. I previously worked at Amazon but was impacted by the layoffs in May, and I am now actively exploring new opportunities. I came across a role at your company that closely matches my skills and YOE, and I was wondering if you might be open to referring me for it.
+
+Best regards,
+Aditya
+
+Job Title: __job_title__
+Job Link: __job_link__
+Job ID: __job_id__
+My email: adityaraj5200@gmail.com
+
 
 
 ---
+# Implementation
 
-Hi Udayan,
+Hi Sangeetha,
 
-I previously worked at Amazon(1 yr 3months)but was recently laid off in May, and I’m now actively exploring new opportunities. I came across the following role at your company that aligns closely with my YOE and skills. Could you give referral to me for this job?
+I hope you are doing well. I previously worked at Amazon but was impacted by the layoffs in May, and I am now actively exploring new opportunities. I came across a role at your company that closely matches my skills and YOE, and I was wondering if you might be open to referring me for it.
 
-Job ID: 1849735
+Job Title: SW Engineer - Java/J2EE- 1 yr- 1.5 yrs exp only
+Job Link: https://jobs.smartrecruiters.com/Visa/744000079665284-sw-engineer-java-j2ee-1-yr-1-5-yrs-exp-only
+My email: adityaraj5200@gmail.com
+
+Best regards,
+Aditya
