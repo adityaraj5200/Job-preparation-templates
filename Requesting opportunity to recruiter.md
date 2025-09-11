@@ -10,3 +10,5 @@ Aditya Raj
 My LinkedIn Profile Link: https://www.linkedin.com/in/adityaraj5200/
 My Phone number: 9525290279
 My Email: adityaraj5200@gmail.com
+
+Also attaching my resume below.
