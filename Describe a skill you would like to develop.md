@@ -1,0 +1,1 @@
+I’d like to further develop my system design and architectural thinking skills. I’ve worked on building scalable APIs and backend components, but I want to improve my ability to design systems end-to-end
