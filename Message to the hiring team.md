@@ -1,3 +1,3 @@
-I have done B.Tech in Computer Science and Engineering from NIT Agartala. I have worked for 1.3 years at Amazon as a Software Development Engineer, where I gained hands-on experience in building scalable backend systems. During my tenure, I worked with Java and the Spring ecosystem, including Spring MVC, to design and develop RESTful APIs and backend services. 
+I have done B.Tech in Computer Science and Engineering from NIT Agartala. I have worked for 1.3 years at Amazon as a Software Development Engineer, where I gained hands-on experience in building scalable backend systems. During my tenure, I worked with Java and the Spring ecosystem, including Spring MVC, to design and develop RESTful APIs and backend services.
 
 My combination of Amazon experience, solid problem-solving skills, and backend expertise in Java and Spring frameworks positions me well to contribute quickly and effectively to any engineering team.

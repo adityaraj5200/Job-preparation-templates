@@ -16,3 +16,6 @@ Aditya Raj, a B.Tech in CSE from NIT Agartala, worked 1.3 years at Amazon as an 
 
 Aditya Raj has done B.Tech in Computer Science and Engineering from NIT Agartala. He has worked for 1.3 years at Amazon as a Software Development Engineer, where he gained hands-on experience in building scalable backend systems. During his tenure, he worked with Java and the Spring ecosystem, including Spring MVC, to design and develop RESTful APIs and backend services.
 He also has a strong foundation in Data Structures and Algorithms. His combination of Amazon experience, solid problem-solving skills, and backend expertise in Java and Spring frameworks positions him well to contribute quickly and effectively to any engineering team.
+
+
+Aditya Raj is a B.Tech graduate in Computer Science and Engineering from NIT Agartala. He has 1.3 years of experience as a Software Development Engineer at Amazon, where he contributed developing RESTful APIs and backend services using Java and the Spring ecosystem, including Spring MVC. He possesses a strong foundation in Data Structures and Algorithms. With his Amazon experience, problem-solving abilities, and backend expertise, he is well-equipped to deliver impactful contributions to any engineering team.
