@@ -10,4 +10,6 @@ https://medium.com/@adityaraj5200
 
 https://www.codechef.com/users/adityaraj5200
 
+https://x.com/Adityaraj5200
+
 9525290279
