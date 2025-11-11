@@ -1,1 +1,1 @@
-Worked as a SDE 1(Software Development Engineer) Java developer with experience in Spring MVC as well
+Worked as an SDE I (Java,Spring Developer), contributed to backend development using Java, Spring MVC, and microservices architecture. Designed and implemented scalable and maintainable RESTful APIs, applying object-oriented design principles, clean code practices, and design patterns to improve performance, modularity, and reliability.

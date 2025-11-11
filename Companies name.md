@@ -53,7 +53,7 @@ Here’s an extended list of ~30 fintech / lending-focused companies in India th
 
 * Visit each company’s **Careers or Job** page to check roles in tech (software, data), product, risk/underwriting, operations, analytics.
 * For your background (Java backend, RESTful APIs, scalable systems), target roles like **backend engineer**, **platform engineer**, **data engineer**, **credit risk tech**, **lending platform microservices**.
-* During applications, highlight your previous experience (1.3 yrs at Amazon) in building scalable services + your interest in fintech/credit systems to stand out.
+* During applications, highlight your previous experience (1.4 yrs at Amazon) in building scalable services + your interest in fintech/credit systems to stand out.
 * Ask about compensation broadly: base salary, bonuses, ESOP/stock (especially fintechs tend to give equity).
 * Since you’re actively job-seeking, prioritize roles with “mid level” relevant to your experience (1-2 yrs), rather than senior too quickly.
 

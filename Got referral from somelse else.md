@@ -1,0 +1,1 @@
+Hey. Thanks for your willingness to refer me. I’ve already received a referral from someone else for now, but let’s stay in touch. I’ll definitely reach out if I need your help in the future.

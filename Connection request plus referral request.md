@@ -1,3 +1,2 @@
-Hi __Name__. I previously worked at Amazon but was laid off and am now job hunting. I’m interested in the below-given job at your Company and would value your referral.Could you accept my connection request so I can share my resume?
-Job Link: https://jobs.smartrecruiters.com/Visa/744000077840147-sw-engineer
-Job id: 9763572778
+Hi, I’m a former Amazon SDE (B.Tech, NIT Agartala) impacted by the May layoffs, and really need a new job right now. I’m interested in this Adobe role (https://careers.adobe.com/us/en/job/R160903/MTS-Java-Backend
+) and would really appreciate a referral. Can we connect so that I share my resume?

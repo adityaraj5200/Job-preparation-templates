@@ -1,6 +1,6 @@
 Hi __Recruiter_Name__,
 
-My name is Aditya Raj, and I previously worked as a Software Development Engineer at Amazon (1.3 years). I have experience in Backend development, REST APIs, Java, Spring, Spring boot, and scalable systems.
+My name is Aditya Raj, and I previously worked as a Software Development Engineer at Amazon (1.4 years). I have experience in Backend development, REST APIs, Java, Spring, Spring boot, and scalable systems.
 
 I am actively looking for new opportunities at your company and can join immediately. Please let me know if there are any suitable openings.
 

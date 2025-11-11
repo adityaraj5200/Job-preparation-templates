@@ -1,1 +1,1 @@
-Software engineer | 2 YOE | Backend Developer | Java Developer | Spring | Spring MVC | REST APIs
+Software engineer | 1.3 YOE | Backend Developer | Java Developer | Spring | Spring MVC | REST APIs
