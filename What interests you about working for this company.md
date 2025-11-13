@@ -1,0 +1,1 @@
+It seems like a place where people are encouraged to grow, take ownership, and make an impact, and that’s the kind of environment I want to be part of.
