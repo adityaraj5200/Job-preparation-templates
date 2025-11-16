@@ -1,16 +1,28 @@
-Email subject: 
-Application for Software Engineer Job opportunities | Ex-Amazon SDE  | Immediate Joiner | Aditya Raj
+Email subject:
+Application for Software Engineer Job | 1.3YOE | Ex-Amazon SDE  | Immediate Joiner | Aditya Raj
 
 
 Hi __company_name__ hiring team,
 
-I am writing to express my interest in possible software engineer job opportunities available at your organisation.
+I am looking for a job right now and I am writing to express my interest in possible software engineer job opportunities available at your organisation.
 
-I am currently between roles, so I am an immediate joiner, and I have 1year 3months of experience as a software engineer, my last employer being Amazon, where I got laid off in May 2025. My technical skill set includes Java, Spring MVC, Spring Boot, Microservices, RESTful APIs ,Data Structures & Algorithms, Object oriented programming, etc.
+Quick info about myself in bullet points:
+* Technical skills: Java, Spring, Spring Boot, Microservices.
+* Notice period: Immediate joiner
+* Years of Experience: 1year 3months
+* Previous employer: Amazon
+* Last CTC: 20 LPA
+* Expected CTC: 20 LPA (Negotiable)
+* Current Location: Chennai
+* Preferred location: PAN India (Flexible to relocate)
+* Work mode preference: Open to WFO/WFH/Hybrid
+* Offers in hand: None
+* Availability for interviews: 9:30AM to 8:30PM (Flexible)
 
-I’m confident that the my skills and perspective I bring from the previous experience would allow me to become a valuable hire in your organisation. I just need one opportunity to prove it in interviews. Could you please consider me for any vacant role?
+I’m confident that my skills and experiences I bring from the previous job would allow me to become a valuable hire in your organisation. Could you please consider me for any vacant role?
 
-Looking forward to hear from you.
+Attaching my resume for your reference.
+Looking forward to hearing from you.
 
 Best regards,
 Aditya Raj
