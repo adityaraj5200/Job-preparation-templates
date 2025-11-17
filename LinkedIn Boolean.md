@@ -15,3 +15,21 @@ NOT ("senior" OR "lead" OR "manager" OR "intern")
 AND (("1 year" OR "1+ years" OR "2 years" OR "entry level" OR "junior")) 
 AND (developer OR engineer OR "software engineer" OR "backend developer") 
 NOT (manager OR management OR lead OR senior OR director OR intern OR internship OR "trainee" OR "volunteer")
+
+# For recruiters:
+("Recruiter" OR "Technical Recruiter" OR "Senior Recruiter" OR "Lead Recruiter" OR 
+"Sourcing Specialist" OR "Talent Sourcer" OR "Recruitment Specialist" OR 
+"Recruitment Consultant" OR "Recruitment Partner" OR "Recruitment Coordinator" OR 
+"Staffing Specialist" OR "Staffing Manager" OR 
+"Talent Acquisition" OR "TA Partner" OR "TA Specialist" OR "TA Manager" OR 
+"Talent Partner" OR 
+"Hiring Manager" OR 
+"HR Manager" OR "HR Business Partner" OR "HRBP" OR "HR Generalist" OR 
+"People Operations" OR "People Partner" OR 
+"Executive Recruiter" OR "Corporate Recruiter" OR "Campus Recruiter" OR "University Recruiter")
+
+
+"Recruiter" OR "Technical Recruiter" OR "Senior Recruiter" OR "Recruitment Specialist" OR "Talent Sourcer"
+"Talent Acquisition" OR "TA Specialist" OR "TA Manager" OR "HR Manager" OR "People Operations"
+
+"Recruiter" OR "Talent Acquisition"OR "Recruitment Specialist" OR "HR Manager"

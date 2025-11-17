@@ -1,0 +1,1 @@
+I am a backend developer with 1 year 3 months of experience, including hands-on work at Amazon, where I built and supported scalable backend systems. I have strong experience in Java, Spring, Spring Boot, REST APIs, and microservices, and I enjoy solving complex technical problems and contributing to reliable, high-quality services.

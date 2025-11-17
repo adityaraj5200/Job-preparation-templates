@@ -1,0 +1,2 @@
+Hi, I came across a role at your company (https://job-boards.greenhouse.io/modulrfinance/jobs/7735424002?gh_jid=7735424002
+) that aligns well with my skills and experience. I’d love to connect and share my resume for your consideration. I’m from NIT Agartala and have 1 yr 3 mo experience at Amazon
