@@ -1,19 +1,30 @@
 
 **Subject:** 
-Application for [Job Title] – [Job ID or Reference Number]
-Application for Software Engineer, Backend – gh_jid=5363552004
+Email subject:
+Application for Software Engineer Job | Job details mentioned | 1.3YOE | Ex-Amazon SDE  | Immediate Joiner | Aditya Raj
 
 **Email Body:**
-Hi Shilpi,
+Hi __Name__,
 
-I hope you’re doing well. My name is Aditya Raj, and I came across the Software Engineer, Backend position on your company’s careers portal. The role aligns closely with my background and experience in Java,Spring,backend development and I wishes to give interview for this job.
-
-I’ve previously worked at Amazon for 1 year 3 months and got laid off in May 2025. I’m confident that the my skills and perspective I bring from that experience would allow me to become a valuable hire in your organisation. I just need one opportunity to prove it in interviews. Could you please consider me for role?
-
-I’ve attached my resume for your review. I would truly appreciate the opportunity to interview for this position.
-
+I hope you’re doing well. I am looking for a job right now and I am writing to express my interest in this role which is currently open at your organisation and aligns with my skills and experience. I am attaching the job details below for your reference:
+Job Title: Software Engineer, Backend
 Job link: https://www.spotnana.com/careers/careers-listing/careers-listing-detail/?gh_jid=5363552004
 Job id: gh_jid=5363552004
+
+Quick info about myself in bullet points:
+* Technical skills: Java, Spring, Spring Boot, Microservices.
+* Notice period: Immediate joiner (Not having active job right now)
+* Years of Experience: 1year 3months
+* Previous employer: Amazon
+* Last CTC: 20 LPA
+* Expected CTC: 20 LPA (Negotiable)
+* Current Location: Chennai
+* Preferred location: PAN India (Flexible to relocate)
+* Work mode preference: Open to WFO/WFH/Hybrid
+* Offers in hand: None
+* Availability for interviews: 9:30AM to 8:30PM (Flexible)
+
+I’ve attached my resume for your review. I would truly appreciate the opportunity to interview for this position.
 
 Thank you for your time and consideration. I look forward to hearing from you.
 
