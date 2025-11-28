@@ -6,10 +6,9 @@ Application for Software Engineer Job | Job details mentioned | 1.3YOE | Ex-Amaz
 **Email Body:**
 Hi __Name__,
 
-I hope you’re doing well. I am looking for a job right now and I am writing to express my interest in this role which is currently open at your organisation and aligns with my skills and experience. I am attaching the job details below for your reference:
-Job Title: Software Engineer, Backend
-Job link: https://www.spotnana.com/careers/careers-listing/careers-listing-detail/?gh_jid=5363552004
-Job id: gh_jid=5363552004
+I hope you’re doing well. I am looking for a job right now and I am writing to express my interest in this role which is currently open at your organization and aligns with my skills and experience. I am attaching the job details below for your reference:
+Job Title: Software Engineer
+Job link: https://www.fibe.in/careers/software-engineer/
 
 Quick info about myself in bullet points:
 * Technical skills: Java, Spring, Spring Boot, Microservices.

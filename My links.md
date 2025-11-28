@@ -12,6 +12,11 @@ https://www.codechef.com/users/adityaraj5200
 
 https://x.com/Adityaraj5200
 
+https://adityaraj5200.github.io/Portfolio/
+
+Resume folder link:
+https://drive.google.com/drive/folders/1PwsjwJeeYSZhmzGcQzCyTTacbh3umGq-?usp=drive_link
+
 9525290279
 
 New 76, Old 49, Veeranpandia Kattaboman street, perungudi, Chennai, Tamil nadu

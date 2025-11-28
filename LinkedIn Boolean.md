@@ -10,6 +10,8 @@ AND ("1 year" OR "1+ year" OR "1-2 years" OR "fresher with experience" OR "junio
 AND ("backend" OR "api" OR "rest api") 
 NOT ("senior" OR "lead" OR "manager" OR "intern")
 
+("1 year" OR "1+ year" OR "1-2 years") AND ("hiring")
+
 # For spring boot developer with 1-2 years experience
 ("spring boot" OR "Backend Developer" OR "Java Developer") 
 AND (("1 year" OR "1+ years" OR "2 years" OR "entry level" OR "junior")) 
