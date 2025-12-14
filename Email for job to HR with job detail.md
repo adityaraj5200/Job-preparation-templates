@@ -13,7 +13,7 @@ Job link: https://www.fibe.in/careers/software-engineer/
 Quick info about myself in bullet points:
 * Technical skills: Java, Spring, Spring Boot, Microservices.
 * Notice period: Immediate joiner (Not having active job right now)
-* Years of Experience: 1year 3months
+* Years of Experience: 1year 4months
 * Previous employer: Amazon
 * Last CTC: 20 LPA
 * Expected CTC: 20 LPA (Negotiable)
