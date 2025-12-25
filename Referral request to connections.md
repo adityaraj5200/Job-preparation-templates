@@ -36,7 +36,7 @@ Sharing job details and my resume below.
 
 Job id: gh_jid=7735424002
 Job Title: Software Engineer -Backend
-Job Link: https://job-boards.greenhouse.io/modulrfinance/jobs/7735424002?gh_jid=7735424002
+Job Link: https://khatabook.turbohire.co/job/publicjobs/7cdfea6d-26c5-4f37-a728-2d8aa0e33930?utm_source=CareerPage
 My email: adityaraj5200@gmail.com
 My linkedin: https://www.linkedin.com/in/adityaraj5200/
 

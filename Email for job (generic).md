@@ -1,6 +1,5 @@
 Email subject:
-Application for Software Engineer Job | 1.3YOE | Ex-Amazon SDE  | Immediate Joiner | Aditya Raj
-
+Application for Software Engineer Job | 1.4YOE | Ex-Amazon SDE  | Immediate Joiner | Aditya Raj
 
 Hi __company_name__ hiring team,
 
